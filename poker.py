@@ -47,3 +47,4 @@ def dealCards(pack):
     return hand1, hand2
 
 print(dealCards(cards))
+print("Jed is cool")
